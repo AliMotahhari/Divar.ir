@@ -8,6 +8,7 @@ a{
 .cs-img-w{
     width: 4rem;
 }
+ text-decoration:none !important;
 
 .icons{
     color:black !important;
